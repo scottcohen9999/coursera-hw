@@ -1,0 +1,55 @@
+body {
+	color: black;
+}
+
+div #collapsable-nav {
+	padding: 0;
+	/*background-color: black;	*/
+}
+#collapsable-nav a{
+	background-color: white;
+	border: 2px;
+	margin: 5px;
+	border-color: black;
+}
+button  {
+	background-color: black;	
+	border-color: black;
+}
+.main-content{
+	padding: 10px;
+	background-color: gray;
+	margin: 5px;
+}
+#nav-list {
+	border: .5px;
+	margin: .5px;
+	border-color: black;
+}
+#nav-list li {
+	/*background-color: black;	*/
+	border: .5px;
+	margin: .5px;
+	border-color: black;
+	font-weight: bold;
+}
+#header-nav {
+	background-color: gray;
+	color: black;
+	border-radius: 0;
+	border: 2px;
+	border-color: black;
+}
+.navbar-header{
+	margin-right: -15px;
+	margin-bottom: 0;
+	padding: 0;
+}
+#header-nav a {
+	color: black;
+}
+.navbar-brand {
+	font-weight: bold;
+	color: black;
+	/*padding: 0;*/
+}
